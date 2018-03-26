@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Questo file viene usato dal processo di pubblicazione/creazione pacchetto del progetto Web. È possibile personalizzare il comportamento del processo
+modificando il file MSBuild. Per altre informazioni su questo argomento, vedere https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://87.250.73.12/www</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Autofac.dll">
+      <publishTime>03/27/2014 19:34:38</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/10/2013 11:14:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/10/2013 11:14:18</publishTime>
+    </File>
+    <File Include="bin/Frigo.dll">
+      <publishTime>03/25/2018 17:39:01</publishTime>
+    </File>
+    <File Include="bin/Frigo.pdb">
+      <publishTime>03/25/2018 17:39:01</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>05/10/2013 10:01:26</publishTime>
+    </File>
+    <File Include="bin/QRCoder.dll">
+      <publishTime>10/21/2017 09:43:48</publishTime>
+    </File>
+    <File Include="bin/UnityEngine.dll">
+      <publishTime>10/21/2017 09:43:48</publishTime>
+    </File>
+    <File Include="Index.html">
+      <publishTime>03/25/2018 17:38:48</publishTime>
+    </File>
+    <File Include="mysql.php">
+      <publishTime>03/25/2018 17:36:58</publishTime>
+    </File>
+    <File Include="QR_Code.aspx">
+      <publishTime>03/25/2018 15:50:22</publishTime>
+    </File>
+    <File Include="Qr_Code_Show.aspx">
+      <publishTime>03/25/2018 17:29:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/25/2018 17:33:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -16,3 +16,27 @@ C:\Users\sstaf\Documents\Visual Studio 2017\Projects\Frigo\Frigo\obj\Release\Fri
 C:\Users\sstaf\Documents\Visual Studio 2017\Projects\Frigo\Frigo\obj\Release\Frigo.dll
 C:\Users\sstaf\Documents\Visual Studio 2017\Projects\Frigo\Frigo\obj\Release\Frigo.pdb
 C:\Users\sstaf\Documents\Visual Studio 2017\Projects\Frigo\Frigo\obj\Release\Frigo.csprojResolveAssemblyReference.cache
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\Frigo.dll.config
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\Frigo.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\Frigo.pdb
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\Autofac.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\EntityFramework.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\EntityFramework.SqlServer.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\log4net.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\QRCoder.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\UnityEngine.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\Autofac.xml
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\EntityFramework.xml
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\EntityFramework.SqlServer.xml
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\log4net.xml
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\obj\Release\Frigo.csprojResolveAssemblyReference.cache
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\obj\Release\Frigo.csproj.CoreCompileInputs.cache
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\obj\Release\Frigo.csproj.CopyComplete
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\obj\Release\Frigo.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\obj\Release\Frigo.pdb
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\zxing.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\zxing.presentation.dll
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\zxing.pdb
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\zxing.xml
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\zxing.presentation.pdb
+C:\Users\sstaf\Source\Repos\Frigo\Frigo\Frigo\bin\zxing.presentation.xml

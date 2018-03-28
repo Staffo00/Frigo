@@ -77,6 +77,12 @@
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\QRCoder.1.3.2\lib\net40\UnityEngine.dll</HintPath>
     </Reference>
+    <Reference Include="zxing, Version=0.16.2.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.2\lib\net45\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.2.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.2\lib\net45\zxing.presentation.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -93,6 +99,7 @@
     <Content Include="Index.html" />
     <Content Include="mysql.php" />
     <Content Include="QR_Code.aspx" />
+    <Content Include="Qr_Code_Read.aspx" />
     <Content Include="Qr_Code_Show.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -104,6 +111,13 @@
     </Compile>
     <Compile Include="QR_Code.aspx.designer.cs">
       <DependentUpon>QR_Code.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Qr_Code_Read.aspx.cs">
+      <DependentUpon>Qr_Code_Read.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Qr_Code_Read.aspx.designer.cs">
+      <DependentUpon>Qr_Code_Read.aspx</DependentUpon>
     </Compile>
     <Compile Include="Qr_Code_Show.aspx.cs">
       <DependentUpon>Qr_Code_Show.aspx</DependentUpon>

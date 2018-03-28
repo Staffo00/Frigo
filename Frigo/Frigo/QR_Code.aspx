@@ -166,7 +166,7 @@
         <div class="col-20">
           <select id="data_a" name="Data_Anno">
               <%
-                  for (int i = 2000; i <= 2050; i++)
+                  for (int i = localDate.Year; i <= localDate.Year+40; i++)
                   {
                       if(i==localDate.Year)
                           Response.Write("<option value=\""+i+"\" selected >"+i+"</option>");
